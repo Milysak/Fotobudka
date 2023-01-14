@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fotobudka</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="number_of_photos">Ilość zdjęć:</string>
+    <string name="interval">Interwał:</string>
+    <string name="baner_graficzny">Baner graficzny:</string>
+    <string name="konfig">KONFIGURATOR</string>
+    <string name="start">START</string>
+    <string name="filtres">Filtr:</string>
+    <string name="settings">Ustawienia:</string>
+</resources>

@@ -1,9 +1,11 @@
-package com.example.fotobudka
+package com.example.fotobudka.adapters
 
 import android.content.res.Resources
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
+import com.example.fotobudka.fragmentsVM.MainMenu
+import com.example.fotobudka.fragmentsVM.MakingPhotosFragment
 
 class ViewPagerAdapter(fragmentActivity: FragmentActivity): FragmentStateAdapter(fragmentActivity) {
     override fun getItemCount() = 2

@@ -17,12 +17,10 @@ Projekt realizowany na studia - wybieramy interwał, ilość zdjęć, baner (jak
 ## Zrzuty ekranu
 
 ### Ekran ustawień
-![Ustawienia](https://github.com/Milysak/Fotobudka/blob/master/Screenshot_2023-02-13-19-50-31-154_com.example.fotobudka.jpg?raw=true)
+<img src="https://github.com/Milysak/Fotobudka/blob/master/Screenshot_2023-02-13-19-50-31-154_com.example.fotobudka.jpg?raw=true" width="192">
 
 ### Podgląd kamery
-![Podgląd Ekranu Start](https://github.com/Milysak/Fotobudka/blob/master/IMG_20230213_195058.jpg?raw=true)
+<img src="https://github.com/Milysak/Fotobudka/blob/master/IMG_20230213_195058.jpg?raw=true" width="192">
 
 ### Plik wynikowy
-<img src="https://github.com/Milysak/Fotobudka/blob/master/PDF_13-02_18-01-190.jpg?raw=true" width="48">
-![Podgląd Ekranu Start](https://github.com/Milysak/Fotobudka/blob/master/PDF_13-02_18-01-190.jpg?raw=true)
-
+<img src="https://github.com/Milysak/Fotobudka/blob/master/PDF_13-02_18-01-190.jpg?raw=true" width="192">

@@ -23,5 +23,6 @@ Projekt realizowany na studia - wybieramy interwał, ilość zdjęć, baner (jak
 ![Podgląd Ekranu Start](https://github.com/Milysak/Fotobudka/blob/master/IMG_20230213_195058.jpg?raw=true)
 
 ### Plik wynikowy
+<img src="https://github.com/Milysak/Fotobudka/blob/master/PDF_13-02_18-01-190.jpg?raw=true" width="48">
 ![Podgląd Ekranu Start](https://github.com/Milysak/Fotobudka/blob/master/PDF_13-02_18-01-190.jpg?raw=true)
 
